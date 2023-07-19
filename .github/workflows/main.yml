@@ -1,4 +1,4 @@
-name: Deploy Python Flask 
+name: aws-flask-project 
 
 on:
   push:
